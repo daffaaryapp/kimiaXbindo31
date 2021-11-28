@@ -27,13 +27,13 @@
           <b style="color: #e4dede; margin-left: 10px"> KELOMPOK 8</b>
         </a>
 
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
 
         <div class="collapse navbar-collapse justify-content-end" id="navbarNavAltMarkup">
           <div class="navbar-nav">
-            <a class="nav-link tombol" href="artikel.php">Artikel</a>
+            <a class="nav-link tombol" href="index.php">Artikel</a>
             <a class="nav-link tombol" href="anggota.php">Anggota</a>
           </div>
         </div>
@@ -46,7 +46,7 @@
       <h1 class="pt-5  fw-bold fs-1" style="text-align: center;"></h1>
       <ul class="mb-5 pb-5 ">
         <li class="mt-5">
-          <img  src="properti/daffa2.jpeg" alt="daffaaryapp" width="200" class=" rounded-circle mb-3 rondo kotak img-thumbnail" />
+          <img  src="properti/daffa2.jpeg" alt="daffaaryapp" width="200" class=" rounded-circle mb-3 rondo kotak " />
           <h4>Nama: Daffa Aryasatya Pratama</h4>
           <h4>Absen: 9</h4>
           <h4>Kelas: XII IPA 4</h4>

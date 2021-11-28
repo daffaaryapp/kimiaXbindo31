@@ -27,14 +27,14 @@
           <b style="color: #e4dede; margin-left: 10px"> KELOMPOK 8</b>
         </a>
 
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
 
         <div class="collapse navbar-collapse justify-content-end" id="navbarNavAltMarkup">
-          <div class="navbar-nav">
-            <a class="nav-link tombol" href="artikel.php">Artikel</a>
-            <a class="nav-link tombol" href="anggota.php">Anggota</a>
+          <div  class="navbar-nav">
+            <a id="his1"class="nav-link tombol" href="index.php">Artikel</a>
+            <a id="his2" class="nav-link tombol" href="anggota.php">Anggota</a>
           </div>
         </div>
       </div>
@@ -269,5 +269,6 @@
         speed: 500,
       });
     </script>
+   
   </body>
 </html>
