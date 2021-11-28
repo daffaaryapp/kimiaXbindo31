@@ -1,0 +1,114 @@
+body {
+  padding-top: 50px;
+  margin: 0px;
+  background: #000;
+}
+
+.bodi {
+  backdrop-filter: blur(5px);
+  background-color: rgba(185, 183, 183, 0.24);
+
+  border-radius: 20px;
+}
+
+/* ---- particles.js container ---- */
+
+#particles-js {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  background-size: cover;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+}
+footer {
+  z-index: 100;
+}
+
+h1,
+h3,
+b,
+p,
+h4 {
+  text-shadow: 0 7px 7px rgba(172, 164, 164, 0.2);
+  color: white;
+}
+
+h3,
+ul {
+  text-align: center;
+}
+
+a,
+li {
+  text-decoration: none;
+  list-style-type: none;
+}
+
+.gambar {
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.mySos:hover {
+  transform: translateY(-5px);
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+nav {
+  backdrop-filter: blur(5px);
+  background-color: rgba(185, 183, 183, 0.24);
+  font-family: "poppins", sans-serif;
+  width: 100%;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+
+footer {
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+}
+
+.tombol {
+  background: #ffc107;
+  border-radius: 999px;
+  box-shadow: #d8f052 0 10px 20px -10px;
+  box-sizing: border-box;
+  color: #ffffff;
+  cursor: pointer;
+  font-family: Inter, Helvetica, "Apple Color Emoji", "Segoe UI Emoji", NotoColorEmoji, "Noto Color Emoji", "Segoe UI Symbol", "Android Emoji", EmojiSymbols, -apple-system, system-ui, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans",
+    sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+  opacity: 1;
+  outline: 0 solid transparent;
+  padding: 8px 18px;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  width: fit-content;
+  word-break: break-word;
+  border: 0;
+  margin-right: 10px;
+}
+
+.tombol:hover {
+  transform: scale(1.1);
+  color: white;
+}
+
+.mySos {
+  box-shadow: #5e5df0 0 10px 20px -10px;
+}
+
+.mySes {
+  color: #000;
+}
+
+.hit {
+  background-color: rgba(0, 0, 0, 0.24);
+}
+
+.rondo {
+  border-radius: 50%;
+}
