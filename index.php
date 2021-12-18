@@ -44,7 +44,12 @@
     <!-- Judul -->
     <div class="container bodi" class="row mt-5" data-aos-duration="1000" data-aos="fade-up">
       <h3 class="display-4 fs-1 fw-bold mt-5 justify-content-center mt-6 pt-5"></h3>
-
+      <ul class="mb-5 pb-5 ">
+        <li class="mt-5">
+          <img  src="properti/asam benzoat.png" alt="daffaaryapp" width="200" class="  mb-3  kotak " style="background-color: #e4dede; border-radius: 20px;" />
+        </li>
+      </ul>      
+          
       <!-- Akhir Judul -->
 
       <!-- Isi -->
@@ -80,112 +85,7 @@
           4,2 asam yang tidak terdisosiasi adalah 50%. Natrium benzoat sebagai antimikroorganisme berperan dalam mengganggu permeabilitas membran sel. Asam benzoat mempunyai pH optimal untuk menghambat mikroorganisme yaitu pH 2,5-4,0. Asam
           benzoat dan natrium benzoat digunakan untuk menghambat pertumbuhan khamir (mikroorganisme uniseluler) dan bakteri tetapi kurang efektif untuk kapang (Afrianti, LH. 2010).
         </p>
-      </div>
-      <div class="row mt-5">
-        <h3>Metode Penelitian</h3>
-        <p>
-          A.) Uji Ferri klorida. <br />
-          Ekstrak asam benzoat dalam eter dari masing-masing sampel diuapkan sampai terbentuk residu sebanyak = 1 ml. Tambahkan beberapa tetes larutan 0,5% FeCl, kedalam residu. Terbentuknya endapan kuning muda dari ferri benzoat menandakan
-          adanya asam benzoat. Kemudian, kedalamnya ditambahkan beberapa ml eter dan gojog. Endapan kuning muda tersebut akan larut kembali dalam eter, kemudian bandingkan dengan asam benzoat baku (AuterhoffKovar, 1987)
-          <br />
-          B.) Kromatografi Lapis Tipis. <br />
-          Ekstrak asam benzoat dalam eter dari ketiga sampel dan larutan asam benzoat baku diuapkan pada penangas air sampai tertinggal I ml. Totolkan pada plat dengan fase diam silika gel GF 254 dan masukkan dalam bejana berisi fase gerak
-          berupa heksan - asam asetat (96 : 4). Kembangkan dengan jarak perambatan 17 cm selama kurang lebih 30 menit. Biarkan plat silika gel GF 254 kering. Penampakan bercak dapat dengan sinar UV 254 nm. Hitung harga Rr dan bandingkan
-          dengan harga Rr asam benzoat baku (Stahl, 1969).
-          <br />
-          C.) Profil Spektrum absorbansi. <br />
-          Ekstrak asam benzoat dari masing-masing sampel dan asam benzoat baku dalam eter di scan dengan spektrofotometer uv/vis pada panjang gelombang 250 nm sampai 300 nm dengan interval 5 nm. Bandingkan profil spektrum absorbansi ekstrak
-          asam benzoat pada sampel dengan profil spektrum absorbansi asam benzoat baku
-        </p>
-      </div>
-      <div class="row mt-5">
-        <h3>Pembahasan</h3>
-        <!-- A -->
-        <p>
-          <b> A.) Uji ferri klorida</b><br />
-          Sebelum dilakukan pengujian, ekstrak eter selai R,S dan T terlebih dahulu dipekatkan. Penambahan Ferri klorida kedalam ekstrak selai R,S dan T menyebabkan terjadinya endapan kuning. Terbentuknya endapan kuning ini menandakan
-          adanya asam benzoat didalam ekstrak eter tersebut. Dimana reaksi yang terjadi adalah sebagai berikut:
-        </p>
-        <div class="row justify-content-center kotak">
-          <div class="card" style="width: 28rem" data-tilt>
-            <img src="properti/1.png" class="card-img-top" alt="..." />
-          </div>
-        </div>
-        <p>
-          reaksi antara ion Ferri dari Ferri klorida dengan ion benzoat dari asam benzoat menghasilkan Ferri benzoat yang berupa endapan kuning. Endapan kuning yang terbentuk dapat larut kembali apabila ditambah kan eter sejumlah tertentu.
-        </p>
-        <!-- B -->
-        <p>
-          <b> B.) Kromatografi lapis tipis (klt)</b> <br />
-          Sampel yang dibotolkan pada plat KLT adalah ekstrak eter selai R,S dan T beserta larutan asam benzoat baku dalam eter. Fase diam yang digunakan dalam penelitian ini adalah silikal gel GF 254. Fase gerak yang digunakan adalah
-          campuran heksan dan asam asetat (96.4) . Campuran ini bersifat non polar. Campuran ini dipilih karena fraksi yang ditotolkan bersifat non polar. Campuran ini dipilih karena fraksi yang ditotolkan bersifat non polar maka fase gerak
-          yang digunakan adalah campuran pelarut yang bersifat non polar pula. Panjang elusi adalah 17 cm dan lamanya elusinya antara 30-40 menit. Bercak yang dihasilkan, dideteksi dengan sinar uv 254 nm. Dari hasil deteksi pada sinar uv,
-          ketiga bercak terlihat gelap sedangkan silika gelnya berfluoresensi hijau. Bercak terlihat gelap dikarenakan asam benzoat mengandung ikatan rangkap terkonjugasi sehingga sinar uv yang mengeksitasi tidak dapat mencapai indikator
-          fluoresensi dan tidak ada cahaya yang dipancarkan. Dari hasil perhitungan harga Rf didapatkan harga Rf dari ekstrak eter selai R, S dan T yang hampir sama dengan harga Rf dari asam benzoat baku. Hal ini menandakan bahwa didalam
-          ekstrak eter selai R, S, Dan T terdapat asam benzoat. Masing-masing harga Rf dapat dilihat pada Tabel II.
-        </p>
-        <br />
-        <p>Tabel II. Harga Rf hasil identifikasi asam benzoat dalam ekstrak selai R dan S meggunakan pembanding asam benzoat baku</p>
-        <div class="row justify-content-center kotak" data-tilt>
-          <div class="card" style="width: 30rem">
-            <img src="properti/2.png" class="card-img-top" alt="..." />
-          </div>
-        </div>
-        <div class="row justify-content-center mt-5 kotak" data-tilt>
-          <div class="card" style="width: 18rem">
-            <img src="properti/3.png" class="card-img-top" alt="..." />
-          </div>
-        </div>
-
-        <p style="text-align: center">
-          Gambar 4. Profil kromatografi lapis tipis
-          <br />
-          Fase diam : Silika gel GF 254 nm
-          <br />
-          Fase gerak: Heksan : Asam asetat (96:4)
-          <br />
-          Deteksi : UV 254 nm
-          <br />
-          Jarak perambatan : 17
-          <br />
-          Keterangan :
-          <br />
-          I. asam benzoat baku
-          <br />
-          II. ekstrak eter selai R
-          <br />
-          III. ekstrak eter selai S
-          <br />
-          IV. ekstrak eter selai T
-        </p>
-        <!-- C -->
-        <p>
-          <b>C) Profil spektrum absorbansi </b>
-        </p>
-        <div class="row justify-content-center mt-5 kotak">
-          <div class="card" style="width: 18rem">
-            <img src="properti/4.png" class="card-img-top" alt="..." />
-          </div>
-        </div>
-        <p style="text-align: center">
-          Gambar 6. Profil spektrum absorbansi
-          <br />
-          Keterangan:
-          <br />
-          I: ekstrak eter selai S
-          <br />
-          II: asam benzoat baku
-          <br />
-          III: ekstrak eter selai T
-          <br />
-          IV: ekstrak eter selai R
-        </p>
-        <p>
-          Profil spektrum absorbansi dapat digunakan untuk analisis kualitatif karena dapat memperlihatkan spektrum asam benzoat baku dan sampel. Spektrum absorbansi yang dihasilkan dapat digunakan untuk mengidentifikasi apakah ekstrak eter
-          selai R, S dan T mengandung asam benzoat, yaitu dengan cara membandingkan spektrum absorbansi ekstrak eter selai R, S dan T dengan spektrum absorbansi asam benzoat baku. Dari gambar 6 terlihat bahwa ekstrak eter selai R, S dan T.
-          mengandung asam benzoat karena spektrum absorbansinya menyerupai spektrum absorbansi asam benzoat baku.
-        </p>
-      </div>
+      </div >
       <div class="row mt-5">
         <h3>Kesimpulan</h3>
         <p>
@@ -193,7 +93,8 @@
           asam benzoat yangakan digunakan sehingga tidak berlebihan dan tidak membawa dampak buruk bagi tubuh.
         </p>
       </div>
-      <div class="row mt-5">
+      
+      <div class="row mt-5 ">
         <h3>Daftar Pustaka</h3>
         <ul class="hit">
           <li><a href="https://warstek.com/benzoat/">warstek.com</a></li>
@@ -236,7 +137,7 @@
 
     <!-- Footer -->
     <footer class="bg-warning text-center p-3 mt-5">
-      <p class="mySes">Copyright 2021 | created by kelompok 8 <i class="bi bi-emoji-sunglasses"></i></p>
+      <p class="mySes">Copyright 2021 | created by daffa aryasatya <i class="bi bi-emoji-sunglasses"></i></p>
       <a href="https://github.com/daffaaryapp" target="_blank" class="btn btn-primary mySos ib-t"> <i class="bi bi-github"></i></a>
       <a href="https://www.instagram.com/daffa_aryasatya_/" target="_blank" class="btn btn-primary mySos"> <i class="bi bi-instagram"></i></a>
     </footer>
